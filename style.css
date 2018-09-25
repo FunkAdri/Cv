@@ -1,5 +1,18 @@
+body {
+color:black;
+background-color:white;
+background-image:url(Oxn6ANc.png);
+margin:0;
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size: cover;
+}
 .décalé{
-  margin: 20px auto;
-  width: 75%;
+  margin: 10px auto;
+  width: 95%;
   padding: 10px;
+}
+.décalé2{
+  margin: 15px;
+  width: 75%;
 }
