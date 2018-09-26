@@ -18,6 +18,12 @@ background-size: cover;
   margin: 1Opx auto;
   width: 75%;
 }
+/* Aligner les cadres */
+#conteneur{
+ height: 100px;
+ width: 80%;
+ margin: auto;
+}
 /* Carrousel d'accueil */
 div#slider figure {
   position: relative;
