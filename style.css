@@ -14,17 +14,18 @@ background-size: cover;
   width: 95%;
   padding: 10px;
 }
-.décalé2{
-  margin: 1Opx auto;
-  width: 75%;
+.décalé2 {
+  margin: 10px auto;
+  width: 95%;
+  padding: 10px;
 }
 /* Aligner les cadres */
 #conteneur{
- height: 100px;
- width: 80%;
+ height: 400px;
+ width: 100%;
  margin: auto;
 }
-/* Carrousel d'accueil */
+/* Carrousel d'accueil ? */
 div#slider figure {
   position: relative;
   width: 500%;
