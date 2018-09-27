@@ -1,12 +1,12 @@
 /* Image de fond */
 body {
-color:black;
-background-color:white;
-background-image:url(Oxn6ANc.png);
-margin:0;
-background-attachment:fixed;
-background-repeat:no-repeat;
-background-size: cover;
+  color:black;
+  background-color:white;
+  background-image:url(Oxn6ANc.png);
+  margin:0;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
 }
 /* Mise en place des cadres */
 .décalé{
@@ -21,9 +21,9 @@ background-size: cover;
 }
 /* Aligner les cadres */
 #conteneur{
- height: 400px;
- width: 100%;
- margin: auto;
+  height: 400px;
+  width: 100%;
+  margin: auto;
 }
 /* Carrousel d'accueil ? */
 div#slider figure {
