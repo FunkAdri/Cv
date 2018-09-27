@@ -71,5 +71,12 @@ button {
 }
 /* Compétences */
 .marginspecial {
-margin-top: 4%;
+  margin-top: 4%;
+}
+.imgtab {
+	width: 100px;
+	text-align:center;
+}
+figcaption {
+  text-align: center;
 }
