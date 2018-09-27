@@ -10,7 +10,8 @@ body {
 }
 /* Mise en place des cadres */
 .décalé{
-  margin: 10px auto;
+  margin-top: 10px auto;
+  margin-left: 10px auto;
   width: 95%;
   padding: 10px;
 }
@@ -27,7 +28,6 @@ body {
 }
 /* Onglet contact */
 form {
-  margin: 0 auto;
   width: 400px;
   padding: 1em;
 }
