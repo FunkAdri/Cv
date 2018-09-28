@@ -13,7 +13,9 @@ body {
   height: 400px;
   width: 100%;
   margin: auto;
-  padding: 60px;
+  padding-top: 60px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 /* Compétences */
 .marginspecial {
@@ -30,11 +32,23 @@ figcaption {
 /* Lien Map Contact */
 .a
 {
-color: white;
-text-decoration: none;
+color: #07020d;
+text-decoration: underline;
 }
 /* Footer */
 #footer{
   position: absolute;
   bottom: 0px;
+}
+.adrien{
+  background-color: #f1e9db;
+  color: #07020d;
+}
+nav a.nav-link{
+  color: #07020d;
+}
+.bordure{
+ border-width: 3px;
+ border-style: double;
+ border-color: #07020d;
 }
