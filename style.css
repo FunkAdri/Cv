@@ -41,14 +41,18 @@ text-decoration: underline;
   bottom: 0px;
 }
 .adrien{
-  background-color: #f1e9db;
-  color: #07020d;
+  background-color: #07020d;
+  color: #716a5c;
+}
+.adrien2{
+  background-color: #a39b8b;
+  color: #07020d
 }
 nav a.nav-link{
-  color: #07020d;
+  color: #716a5c
 }
 .bordure{
  border-width: 3px;
  border-style: double;
- border-color: #07020d;
+ border-color: #716a5c;
 }
