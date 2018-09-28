@@ -32,14 +32,10 @@ figcaption {
 /* Lien Map Contact */
 .a
 {
-color: #07020d;
-text-decoration: underline;
+  color: #07020d;
+  text-decoration: underline;
 }
-/* Footer */
-#footer{
-  position: absolute;
-  bottom: 0px;
-}
+/* Couleurs */
 .adrien{
   background-color: #07020d;
   color: #a39b8b;
@@ -50,9 +46,4 @@ text-decoration: underline;
 }
 nav a.nav-link{
   color: #a39b8b;
-}
-.bordure{
- border-width: 3px;
- border-style: double;
- border-color: #716a5c;
 }
