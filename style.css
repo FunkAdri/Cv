@@ -8,55 +8,12 @@ body {
   background-repeat:no-repeat;
   background-size: cover;
 }
-/* Mise en place des cadres */
-.décalé{
-  margin-top: 10px auto;
-  margin-left: 10px auto;
-  width: 95%;
-  padding: 10px;
-}
-.décalé2 {
-  margin: 10px auto;
-  width: 95%;
-  padding: 10px;
-}
 /* Aligner les cadres */
 #conteneur{
   height: 400px;
   width: 100%;
   margin: auto;
-}
-/* Onglet contact */
-form {
-  width: 400px;
-  padding: 1em;
-}
-form div + div {
-  margin-top: 1em;
-}
-label {
-  display: inline-block;
-  width: 90px;
-  text-align: right;
-}
-input, textarea {
-  font: 1em sans-serif;
-  width: 300px;
-  box-sizing: border-box;
-  border: 1px solid #999;
-}
-input:focus, textarea:focus {
-  border-color: #000;
-}
-textarea {
-  vertical-align: top;
-  height: 5em;
-}
-.button {
-  padding-left: 90px;
-}
-button {
-  margin-left: .5em;
+  padding: 60px;
 }
 /* Compétences */
 .marginspecial {
@@ -69,4 +26,10 @@ figcaption {
   display: block;
   margin-left: auto;
   margin-right: auto
+}
+/* Lien Map Contact */
+.a
+{
+color: white;
+text-decoration: none;
 }
